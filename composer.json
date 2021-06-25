@@ -1,0 +1,17 @@
+{
+    "name": "yian/fwalert-sdk",
+    "description": "The PHP SDK of FwAlert",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Y!an",
+            "email": "i@yian.me"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "FwAlert\\": "src/"
+        }
+    }
+}
