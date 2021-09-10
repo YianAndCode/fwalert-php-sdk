@@ -13,8 +13,5 @@
         "psr-4": {
             "FwAlert\\": "src/"
         }
-    },
-    "require": {
-        "composer-runtime-api": "^2.0"
     }
 }
