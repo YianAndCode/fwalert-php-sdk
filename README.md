@@ -45,8 +45,8 @@ use FwAlert\FwAlert;
 $fw = new FwAlert;
 
 // 提前注册好“频道”
-$fw->AddChannel("ch1", "webhook_url1")
-$fw->AddChannel("ch2", "webhook_url2")
+$fw->AddChannel("ch1", "webhook_url1");
+$fw->AddChannel("ch2", "webhook_url2");
 // ...
 
 $fw->Send(
@@ -54,5 +54,5 @@ $fw->Send(
     [
         'hello' => 'world',
     ]
-)
+);
 ```
