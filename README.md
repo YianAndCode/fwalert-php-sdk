@@ -5,7 +5,7 @@
 ## Fw: Alert PHP SDK
 
 本 SDK 对 Fw: Alert 的 webhook 模式进行了封装，让你可以无需关注 HTTP 请求，只需几行代码即可快速在你的 PHP 项目中接入 `饭碗警告`。  
-*\*如需在 Go 项目中使用，请移步：[https://github.com/YianAndCode/fwalert-php-sdk](https://github.com/YianAndCode/fwalert-go)*
+*\*如需在 Go 项目中使用，请移步：[https://github.com/YianAndCode/fwalert-go](https://github.com/YianAndCode/fwalert-go)*
 
 在开始之前，请确保你已经注册好了[饭碗警告](https://fwalert.com/115)（点击左侧链接直达注册页）。
 
